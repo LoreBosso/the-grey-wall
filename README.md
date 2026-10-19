@@ -11,7 +11,7 @@
   <a href="https://lorebosso.itch.io/the-grey-wall">
     <img src="https://img.shields.io/badge/Play%20Demo-Itch.io-red?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play on Itch.io">
   </a>
-  <a href="Docs/Pitch_Document.pdf">
+  <a href="Docs/Pitch_Document_TGW.pdf">
     <img src="https://img.shields.io/badge/Read-Pitch%20Document-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Pitch Document">
   </a>
 </p>
